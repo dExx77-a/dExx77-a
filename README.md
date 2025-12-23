@@ -15,4 +15,5 @@ I enjoy building projects that solve real-world problems and constantly learning
 + Hobbies : Gym/Football, TV shows
 + Linux is my favourite operating system
 + Wargames/CTFs lover
+
 ⭐ Thank you for visiting my profile! Have a great day! ⭐
