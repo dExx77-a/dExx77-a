@@ -1,5 +1,4 @@
-## Hi there 👋
-Hello!
+## Hello there 👋
 I'm Dex, a student passionate about Cyber Security.
 I enjoy building projects that solve real-world problems and constantly learning new technologies.
 
